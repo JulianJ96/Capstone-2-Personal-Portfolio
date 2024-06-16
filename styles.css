@@ -19,3 +19,34 @@ body {
 .nav-text, .nav-link{
     color: #f5f5f5 !important;
 }
+
+.bg-img{
+    background: transparent;
+}
+
+h1{
+    color: gray;
+    font-family: "Quicksand", serif;
+}
+
+strong{
+    color: #f5f5f5;
+}
+
+.hero-title{
+    letter-spacing: 5px;
+    height: 117px;
+    width: 637px;
+}
+
+.hero-p{
+    height: 80px;
+    width: 583px;
+}
+
+p{
+    font-family: "Roboto", sans-serif;
+    color: black;
+    font-size: 22px;
+    letter-spacing: 4.5px;
+}
