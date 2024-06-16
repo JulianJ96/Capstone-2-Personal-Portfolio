@@ -1,0 +1,31 @@
+Color Palette:
+Sky Blue: #87CEEB (Main color representing calmness and creativity)
+Tranquil White: #F5F5F5 (Reflecting peace and tranquility)
+Soft Lavender: #D8BFD8 (Adding a touch of creativity and sophistication)
+Zen Green: #B0C88E (Symbolizing balance and harmony)
+Soothing Gray: #D3D3D3 (Providing a neutral backdrop)
+
+
+Gradient Background Suggestions:
+Sky Blue to Tranquil White:
+background: linear-gradient(to bottom, #87CEEB, #F5F5F5);
+
+
+Sky Blue to Soft Lavender:
+background: linear-gradient(to bottom, #87CEEB, #D8BFD8);
+
+
+Sky Blue to Zen Green:
+background: linear-gradient(to bottom, #87CEEB, #B0C88E);
+
+
+Sky Blue to Soothing Gray:
+background: linear-gradient(to bottom, #87CEEB, #D3D3D3);
+
+These combinations will help create a website that reflects your calm, creative nature while 
+conveying peace and tranquility through the power of web development. 
+
+
+Headers will be Quicksand Font
+
+Body Text will be Roboto
