@@ -7,3 +7,15 @@
 body {
     background: linear-gradient(90deg, #87CEEB, #D8BFD8);
 }
+
+
+
+
+
+.nav, .nav-link a{
+    font-family: "Roboto", sans-serif;
+}
+
+.nav-text, .nav-link{
+    color: #f5f5f5 !important;
+}
