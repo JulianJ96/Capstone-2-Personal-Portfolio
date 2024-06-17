@@ -12,7 +12,7 @@ body {
 
 
 
-.nav, .nav-link a{
+.nav, .nav-item, .nav-link a{
     font-family: "Roboto", sans-serif;
 }
 
@@ -36,12 +36,12 @@ strong{
 .hero-title{
     letter-spacing: 5px;
     height: 117px;
-    width: 637px;
+    width: 500px;
 }
 
 .hero-p{
     height: 80px;
-    width: 583px;
+    width: 400px;
 }
 
 p{
