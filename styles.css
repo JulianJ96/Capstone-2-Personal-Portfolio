@@ -25,7 +25,7 @@ body {
 }
 
 h1{
-    color: gray;
+    color: black;
     font-family: "Quicksand", serif;
 }
 
@@ -49,4 +49,27 @@ p{
     color: black;
     font-size: 22px;
     letter-spacing: 4.5px;
+}
+
+.bg-body-tertiary {
+    background: linear-gradient(90deg, #87CEEB, #D8BFD8); /* Apply the same background */
+    color: white; /* Ensure text is readable */
+}
+
+
+.text-body-emphasis{
+    font-family: "Quicksand", serif;
+}
+
+.card{
+    justify-content: center;
+}
+
+.skill-card {
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.skill-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
