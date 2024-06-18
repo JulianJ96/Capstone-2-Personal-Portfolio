@@ -5,7 +5,8 @@
 }
 
 body {
-    background: linear-gradient(90deg, #87CEEB, #D8BFD8);
+    background: linear-gradient( 135deg, #87CEEB, #D8BFD8);
+    min-height: 100vh;
 }
 
 
@@ -52,7 +53,7 @@ p{
 }
 
 .bg-body-tertiary {
-    background: linear-gradient(90deg, #87CEEB, #D8BFD8); /* Apply the same background */
+    background: linear-gradient(135deg, #87CEEB,#D8BFD8);
     color: white; /* Ensure text is readable */
 }
 
